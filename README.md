@@ -1,5 +1,5 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
-
+[![Build Status](https://dev.azure.com/NOURIAIMENE/PartsUnlimited-YAML/_apis/build/status/fazerti.ContosoAir?branchName=master)](https://dev.azure.com/NOURIAIMENE/PartsUnlimited-YAML/_build/latest?definitionId=6&branchName=master)
 
 # Microsoft.Github CI Demo
 
